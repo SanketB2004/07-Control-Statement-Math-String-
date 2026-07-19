@@ -5,7 +5,7 @@ public class Randome_Number {
         
    System.out.println(Math.abs(-99.1));
 
-   System.out.println((int)(Math.random()*5f)+1);
+   System.out.println((int)(Math.random()*5)+1);
         
 
 
